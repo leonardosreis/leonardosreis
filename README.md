@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @leonardosreis
-- 👀 I’m interested in studying front-end development.
+- 👀 I’m interested in study front-end development.
 - 🌱 I’m currently learning HTML5, CSS3 and JavaScript.
